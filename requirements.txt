@@ -1,0 +1,4 @@
+jupyter
+tinkoff-investments
+plotly
+pandas
